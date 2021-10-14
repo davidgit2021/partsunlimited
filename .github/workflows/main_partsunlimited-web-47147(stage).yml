@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'partsunlimited-web-47147'
           slot-name: 'stage'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2BC95DD0339B41EEA1F497199087862B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1D614D083BBB47EC88B85A12448A6FBA }}
           package: .
